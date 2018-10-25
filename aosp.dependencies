@@ -15,6 +15,7 @@
   },
   {
     "repository": "vendor_MiuiCamera",
-    "target_path": "vendor/MiuiCamera"
+    "target_path": "vendor/MiuiCamera",
+    "branch": "pie-whyred"
   }
 ]
